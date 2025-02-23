@@ -6,3 +6,6 @@ Run container for the first time:<br>
 <br><br>
 Start the container again once already created:<br>
 `docker start -i tdeck`
+
+To update image:
+`docker pull joyel/meshtastic-tdeck-tft`
